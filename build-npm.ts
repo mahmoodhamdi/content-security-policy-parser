@@ -13,7 +13,7 @@ await build({
     description: "Parse Content Security Policy directives.",
     version: "0.6.0",
     license: "MIT",
-    keywords: ["security", "content", "security", "policy", "csp", "parser"],
+    keywords: ["content", "security", "policy", "csp", "parser"],
     homepage: "https://github.com/helmetjs/content-security-policy-parser",
     repository: {
       type: "git",
